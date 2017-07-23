@@ -20,8 +20,8 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/devevo/resanda.git
-cd devevo/resanda
+git clone https://github.com/omaralahmad/resanda.git
+cd omaralahmad/resanda
 chmod +x beyond.sh
 ./beyond.sh install
 ./beyond.sh 
@@ -30,7 +30,7 @@ chmod +x beyond.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/devevo/resanda.git.git && cd devevo/resanda && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+cd $HOME && git clone https://github.com/omaralahmad/resanda.git.git && cd omarlalhmad/resanda && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
 ```
 
 * * *
